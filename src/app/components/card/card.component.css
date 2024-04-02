@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    height: 600px;
+    width: 850px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+}
+
+.first-text{
+    font-size:45px;
+    text-align: center;
+}
